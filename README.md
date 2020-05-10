@@ -1,5 +1,7 @@
-# Create-Purchasing-Information-and-Receipts-for-Lovely-Loveseats
+# Codecademy's Python Syntax Project practise
 This is the first project of PYTHON FUNCTIONS AND LOGIC in Codecademy course.
+
+Create-Purchasing-Information-and-Receipts-for-Lovely-Loveseats
 
 Objective:
 We’ve decided to pursue the dream of small-business ownership and open up a furniture store called Lovely Loveseats for Neat Suites on Fleet Street. With our newfound knowledge of Python programming, we’re going to build a system to help speed up the process of creating receipts for your customers.
