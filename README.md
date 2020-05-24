@@ -1,5 +1,5 @@
 # Codecademy's Python Syntax Project practice
-This is the first project of PYTHON FUNCTIONS AND LOGIC in Codecademy course.
+This is a project of PYTHON FUNCTIONS AND LOGIC in Codecademy course.
 
 Create-Purchasing-Information-and-Receipts-for-Lovely-Loveseats
 
